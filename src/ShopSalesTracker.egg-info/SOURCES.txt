@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/ShopSalesTracker.egg-info/PKG-INFO
+src/ShopSalesTracker.egg-info/SOURCES.txt
+src/ShopSalesTracker.egg-info/dependency_links.txt
+src/ShopSalesTracker.egg-info/entry_points.txt
+src/ShopSalesTracker.egg-info/requires.txt
+src/ShopSalesTracker.egg-info/top_level.txt
