@@ -1,14 +1,6 @@
 import pandas as pd
-<<<<<<< HEAD
 from src.inventory import InventoryManager
 from src.sales import SalesManager
-=======
-from src.inventory import load_inventory, save_inventory, update_inventory
-from src.sales import process_sales, generate_bill, update_sales_log
-
-INPUT_FILE = r"C:\Users\Abhishek Mahendroo\Documents\PythonProject\ShopSalesTracker\data\shop_inventory.xlsx"
-SALES_LOG = r"C:\Users\Abhishek Mahendroo\Documents\PythonProject\ShopSalesTracker\data\daily_sales.xlsx"
->>>>>>> d0f2cf07ab0ac14c43c9cab71f35055fc5c777f8
 
 INPUT_FILE = r"C:\Users\Abhishek Mahendroo\Documents\PythonProject\ShopSalesTracker\data\shop_inventory.xlsx"
 SALES_LOG = r"C:\Users\Abhishek Mahendroo\Documents\PythonProject\ShopSalesTracker\data\daily_sales.xlsx"
