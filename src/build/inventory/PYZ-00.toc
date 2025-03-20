@@ -1,0 +1,4707 @@
+('C:\\Users\\Abhishek '
+ 'Mahendroo\\Documents\\PythonProject\\ShopSalesTracker\\src\\build\\inventory\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pytest',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\__init__.py',
+   'PYMODULE'),
+  ('_pytest._argcomplete',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_argcomplete.py',
+   'PYMODULE'),
+  ('_pytest._code',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_code\\__init__.py',
+   'PYMODULE'),
+  ('_pytest._code.code',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_code\\code.py',
+   'PYMODULE'),
+  ('_pytest._code.source',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_code\\source.py',
+   'PYMODULE'),
+  ('_pytest._io',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_io\\__init__.py',
+   'PYMODULE'),
+  ('_pytest._io.pprint',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_io\\pprint.py',
+   'PYMODULE'),
+  ('_pytest._io.saferepr',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_io\\saferepr.py',
+   'PYMODULE'),
+  ('_pytest._io.terminalwriter',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_io\\terminalwriter.py',
+   'PYMODULE'),
+  ('_pytest._io.wcwidth',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_io\\wcwidth.py',
+   'PYMODULE'),
+  ('_pytest._py',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_py\\__init__.py',
+   'PYMODULE'),
+  ('_pytest._py.error',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_py\\error.py',
+   'PYMODULE'),
+  ('_pytest._py.path',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_py\\path.py',
+   'PYMODULE'),
+  ('_pytest._version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\_version.py',
+   'PYMODULE'),
+  ('_pytest.assertion',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\assertion\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.assertion.rewrite',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\assertion\\rewrite.py',
+   'PYMODULE'),
+  ('_pytest.assertion.truncate',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\assertion\\truncate.py',
+   'PYMODULE'),
+  ('_pytest.assertion.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\assertion\\util.py',
+   'PYMODULE'),
+  ('_pytest.cacheprovider',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\cacheprovider.py',
+   'PYMODULE'),
+  ('_pytest.capture',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\capture.py',
+   'PYMODULE'),
+  ('_pytest.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\compat.py',
+   'PYMODULE'),
+  ('_pytest.config',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\config\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.config.argparsing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\config\\argparsing.py',
+   'PYMODULE'),
+  ('_pytest.config.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\config\\compat.py',
+   'PYMODULE'),
+  ('_pytest.config.exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\config\\exceptions.py',
+   'PYMODULE'),
+  ('_pytest.config.findpaths',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\config\\findpaths.py',
+   'PYMODULE'),
+  ('_pytest.debugging',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\debugging.py',
+   'PYMODULE'),
+  ('_pytest.deprecated',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\deprecated.py',
+   'PYMODULE'),
+  ('_pytest.doctest',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\doctest.py',
+   'PYMODULE'),
+  ('_pytest.faulthandler',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\faulthandler.py',
+   'PYMODULE'),
+  ('_pytest.fixtures',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\fixtures.py',
+   'PYMODULE'),
+  ('_pytest.freeze_support',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\freeze_support.py',
+   'PYMODULE'),
+  ('_pytest.helpconfig',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\helpconfig.py',
+   'PYMODULE'),
+  ('_pytest.hookspec',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\hookspec.py',
+   'PYMODULE'),
+  ('_pytest.junitxml',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\junitxml.py',
+   'PYMODULE'),
+  ('_pytest.legacypath',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\legacypath.py',
+   'PYMODULE'),
+  ('_pytest.logging',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\logging.py',
+   'PYMODULE'),
+  ('_pytest.main',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\main.py',
+   'PYMODULE'),
+  ('_pytest.mark',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\mark\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.mark.expression',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\mark\\expression.py',
+   'PYMODULE'),
+  ('_pytest.mark.structures',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\mark\\structures.py',
+   'PYMODULE'),
+  ('_pytest.monkeypatch',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\monkeypatch.py',
+   'PYMODULE'),
+  ('_pytest.nodes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\nodes.py',
+   'PYMODULE'),
+  ('_pytest.outcomes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\outcomes.py',
+   'PYMODULE'),
+  ('_pytest.pastebin',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\pastebin.py',
+   'PYMODULE'),
+  ('_pytest.pathlib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\pathlib.py',
+   'PYMODULE'),
+  ('_pytest.pytester',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\pytester.py',
+   'PYMODULE'),
+  ('_pytest.pytester_assertions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\pytester_assertions.py',
+   'PYMODULE'),
+  ('_pytest.python',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\python.py',
+   'PYMODULE'),
+  ('_pytest.python_api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\python_api.py',
+   'PYMODULE'),
+  ('_pytest.python_path',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\python_path.py',
+   'PYMODULE'),
+  ('_pytest.recwarn',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\recwarn.py',
+   'PYMODULE'),
+  ('_pytest.reports',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\reports.py',
+   'PYMODULE'),
+  ('_pytest.runner',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\runner.py',
+   'PYMODULE'),
+  ('_pytest.scope',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\scope.py',
+   'PYMODULE'),
+  ('_pytest.setuponly',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\setuponly.py',
+   'PYMODULE'),
+  ('_pytest.setupplan',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\setupplan.py',
+   'PYMODULE'),
+  ('_pytest.skipping',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\skipping.py',
+   'PYMODULE'),
+  ('_pytest.stash',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\stash.py',
+   'PYMODULE'),
+  ('_pytest.stepwise',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\stepwise.py',
+   'PYMODULE'),
+  ('_pytest.terminal',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\terminal.py',
+   'PYMODULE'),
+  ('_pytest.threadexception',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\threadexception.py',
+   'PYMODULE'),
+  ('_pytest.timing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\timing.py',
+   'PYMODULE'),
+  ('_pytest.tmpdir',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\tmpdir.py',
+   'PYMODULE'),
+  ('_pytest.unittest',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\unittest.py',
+   'PYMODULE'),
+  ('_pytest.unraisableexception',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\unraisableexception.py',
+   'PYMODULE'),
+  ('_pytest.warning_types',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\warning_types.py',
+   'PYMODULE'),
+  ('_pytest.warnings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\_pytest\\warnings.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('backports',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\calendar.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\cgi.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorama',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('et_xmlfile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\et_xmlfile\\__init__.py',
+   'PYMODULE'),
+  ('et_xmlfile.incremental_tree',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\et_xmlfile\\incremental_tree.py',
+   'PYMODULE'),
+  ('et_xmlfile.xmlfile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\et_xmlfile\\xmlfile.py',
+   'PYMODULE'),
+  ('exceptiongroup',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\exceptiongroup\\__init__.py',
+   'PYMODULE'),
+  ('exceptiongroup._catch',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\exceptiongroup\\_catch.py',
+   'PYMODULE'),
+  ('exceptiongroup._exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\exceptiongroup\\_exceptions.py',
+   'PYMODULE'),
+  ('exceptiongroup._formatting',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\exceptiongroup\\_formatting.py',
+   'PYMODULE'),
+  ('exceptiongroup._suppress',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\exceptiongroup\\_suppress.py',
+   'PYMODULE'),
+  ('exceptiongroup._version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\exceptiongroup\\_version.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\fileinput.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._adapters',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\_adapters.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('iniconfig',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\iniconfig\\__init__.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('jaraco', '-', 'PYMODULE'),
+  ('jaraco.collections',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\collections\\__init__.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._machar',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.tests', '-', 'PYMODULE'),
+  ('numpy._core.tests._natype',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\tests\\_natype.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\opcode.py',
+   'PYMODULE'),
+  ('openpyxl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl._constants',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\_constants.py',
+   'PYMODULE'),
+  ('openpyxl.cell',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\cell\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.cell._writer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\cell\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.cell.cell',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\cell\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.cell.read_only',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\cell\\read_only.py',
+   'PYMODULE'),
+  ('openpyxl.cell.rich_text',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\cell\\rich_text.py',
+   'PYMODULE'),
+  ('openpyxl.cell.text',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\cell\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chart._3d',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\_3d.py',
+   'PYMODULE'),
+  ('openpyxl.chart._chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.area_chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\area_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.axis',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\axis.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bar_chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bubble_chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.chartspace',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\chartspace.py',
+   'PYMODULE'),
+  ('openpyxl.chart.data_source',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\data_source.py',
+   'PYMODULE'),
+  ('openpyxl.chart.descriptors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\descriptors.py',
+   'PYMODULE'),
+  ('openpyxl.chart.error_bar',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\error_bar.py',
+   'PYMODULE'),
+  ('openpyxl.chart.label',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\label.py',
+   'PYMODULE'),
+  ('openpyxl.chart.layout',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\layout.py',
+   'PYMODULE'),
+  ('openpyxl.chart.legend',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\legend.py',
+   'PYMODULE'),
+  ('openpyxl.chart.line_chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\line_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.marker',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\marker.py',
+   'PYMODULE'),
+  ('openpyxl.chart.picture',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pie_chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pivot',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\pivot.py',
+   'PYMODULE'),
+  ('openpyxl.chart.plotarea',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\plotarea.py',
+   'PYMODULE'),
+  ('openpyxl.chart.print_settings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.radar_chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reader',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\reader.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reference',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\reference.py',
+   'PYMODULE'),
+  ('openpyxl.chart.scatter_chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\series.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series_factory',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\series_factory.py',
+   'PYMODULE'),
+  ('openpyxl.chart.shapes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\shapes.py',
+   'PYMODULE'),
+  ('openpyxl.chart.stock_chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.surface_chart',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.text',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart.title',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\title.py',
+   'PYMODULE'),
+  ('openpyxl.chart.trendline',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\trendline.py',
+   'PYMODULE'),
+  ('openpyxl.chart.updown_bars',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.chartsheet',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.custom',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.properties',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.protection',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.publish',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.relation',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.views',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\chartsheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.comments',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\comments\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.comments.author',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\comments\\author.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comment_sheet',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comments',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\comments\\comments.py',
+   'PYMODULE'),
+  ('openpyxl.comments.shape_writer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
+   'PYMODULE'),
+  ('openpyxl.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\compat\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.compat.numbers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\compat\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.compat.strings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\compat\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\descriptors\\base.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.container',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\descriptors\\container.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.excel',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\descriptors\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.namespace',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.nested',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\descriptors\\nested.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.sequence',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.serialisable',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
+   'PYMODULE'),
+  ('openpyxl.drawing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.colors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.connector',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\connector.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.drawing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.effect',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\effect.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.fill',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\fill.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.geometry',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\geometry.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.graphic',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\graphic.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.image',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\image.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.line',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\line.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.picture',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.properties',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.relation',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.spreadsheet_drawing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.text',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.xdr',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\drawing\\xdr.py',
+   'PYMODULE'),
+  ('openpyxl.formatting',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\formatting\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.formatting',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\formatting\\formatting.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.rule',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\formatting\\rule.py',
+   'PYMODULE'),
+  ('openpyxl.formula',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\formula\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formula.tokenizer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
+   'PYMODULE'),
+  ('openpyxl.formula.translate',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\formula\\translate.py',
+   'PYMODULE'),
+  ('openpyxl.packaging',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.core',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\packaging\\core.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.custom',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\packaging\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.extended',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\packaging\\extended.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.manifest',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\packaging\\manifest.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.relationship',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\packaging\\relationship.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.workbook',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\packaging\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.pivot',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\pivot\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.cache',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\pivot\\cache.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.fields',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\pivot\\fields.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.record',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\pivot\\record.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.table',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\pivot\\table.py',
+   'PYMODULE'),
+  ('openpyxl.reader',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\reader\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.drawings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\reader\\drawings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.excel',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\reader\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.reader.strings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\reader\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.workbook',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\reader\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.styles',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.styles.alignment',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\alignment.py',
+   'PYMODULE'),
+  ('openpyxl.styles.borders',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\borders.py',
+   'PYMODULE'),
+  ('openpyxl.styles.builtins',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\builtins.py',
+   'PYMODULE'),
+  ('openpyxl.styles.cell_style',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\cell_style.py',
+   'PYMODULE'),
+  ('openpyxl.styles.colors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.styles.differential',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\differential.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fills',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\fills.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fonts',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\fonts.py',
+   'PYMODULE'),
+  ('openpyxl.styles.named_styles',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\named_styles.py',
+   'PYMODULE'),
+  ('openpyxl.styles.numbers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.styles.protection',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.proxy',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\proxy.py',
+   'PYMODULE'),
+  ('openpyxl.styles.styleable',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\styleable.py',
+   'PYMODULE'),
+  ('openpyxl.styles.stylesheet',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
+   'PYMODULE'),
+  ('openpyxl.styles.table',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\styles\\table.py',
+   'PYMODULE'),
+  ('openpyxl.utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils.bound_dictionary',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
+   'PYMODULE'),
+  ('openpyxl.utils.cell',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.utils.datetime',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\datetime.py',
+   'PYMODULE'),
+  ('openpyxl.utils.escape',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\escape.py',
+   'PYMODULE'),
+  ('openpyxl.utils.exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\exceptions.py',
+   'PYMODULE'),
+  ('openpyxl.utils.formulas',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\formulas.py',
+   'PYMODULE'),
+  ('openpyxl.utils.indexed_list',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
+   'PYMODULE'),
+  ('openpyxl.utils.protection',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.utils.units',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\utils\\units.py',
+   'PYMODULE'),
+  ('openpyxl.workbook',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook._writer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.child',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\child.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.defined_name',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link.external',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_reference',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.function_group',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\function_group.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.properties',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.protection',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.smart_tags',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.views',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\views.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.web',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\web.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.workbook',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\workbook\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._read_only',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\_read_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._reader',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\_reader.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._write_only',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\_write_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._writer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.cell_range',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\cell_range.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.copier',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\copier.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.datavalidation',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.dimensions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.drawing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.filters',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\filters.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.formula',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\formula.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.header_footer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.hyperlink',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.merge',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\merge.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.page',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\page.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.pagebreak',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.print_settings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.properties',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.protection',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.related',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\related.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.scenario',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\scenario.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.table',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\table.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.views',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.worksheet',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.writer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\writer\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.writer.excel',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\writer\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.writer.theme',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\writer\\theme.py',
+   'PYMODULE'),
+  ('openpyxl.xml',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\xml\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml.constants',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\xml\\constants.py',
+   'PYMODULE'),
+  ('openpyxl.xml.functions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\openpyxl\\xml\\functions.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pandas',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\api\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\api\\typing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\compat\\_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.compressors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\compat\\compressors.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.extensions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\_numba\\extensions.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\array_algos\\datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\array_algos\\masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.accessors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\interchange\\buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\interchange\\column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\interchange\\dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\interchange\\dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\interchange\\from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\interchange\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\methods\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\methods\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\methods\\selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\methods\\to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._calamine',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\_calamine.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\tseries\\holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pickletools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\pickletools.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\platform.py',
+   'PYMODULE'),
+  ('platformdirs',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('platformdirs.android',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('platformdirs.api',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('platformdirs.macos',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('platformdirs.unix',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('platformdirs.version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('platformdirs.windows',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pluggy',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pluggy\\__init__.py',
+   'PYMODULE'),
+  ('pluggy._callers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pluggy\\_callers.py',
+   'PYMODULE'),
+  ('pluggy._hooks',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pluggy\\_hooks.py',
+   'PYMODULE'),
+  ('pluggy._manager',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pluggy\\_manager.py',
+   'PYMODULE'),
+  ('pluggy._result',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pluggy\\_result.py',
+   'PYMODULE'),
+  ('pluggy._tracing',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pluggy\\_tracing.py',
+   'PYMODULE'),
+  ('pluggy._version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pluggy\\_version.py',
+   'PYMODULE'),
+  ('pluggy._warnings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pluggy\\_warnings.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\py.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pytest',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pytest\\__init__.py',
+   'PYMODULE'),
+  ('pytz',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\random.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._macos_compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.config',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_egg_info',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py39',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cygwinccompiler',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dep_util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\dep_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.unixccompiler',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._distutils.zosccompiler',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_distutils\\zosccompiler.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py311',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py39',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomli',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('tomli._parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('tomli._re',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\tomli\\_re.py',
+   'PYMODULE'),
+  ('tomli._types',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\tomli\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('wheel',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('wheel.cli',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\cli\\__init__.py',
+   'PYMODULE'),
+  ('wheel.cli.convert',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\cli\\convert.py',
+   'PYMODULE'),
+  ('wheel.cli.pack',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\cli\\pack.py',
+   'PYMODULE'),
+  ('wheel.cli.tags',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\cli\\tags.py',
+   'PYMODULE'),
+  ('wheel.cli.unpack',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\cli\\unpack.py',
+   'PYMODULE'),
+  ('wheel.macosx_libfile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('wheel.metadata',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\metadata.py',
+   'PYMODULE'),
+  ('wheel.util',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\util.py',
+   'PYMODULE'),
+  ('wheel.vendored',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\__init__.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._elffile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._manylinux',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._musllinux',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._parser',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._structures',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._tokenizer',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.markers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\markers.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.requirements',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.specifiers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.tags',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\tags.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.utils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\utils.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.version',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\vendored\\packaging\\version.py',
+   'PYMODULE'),
+  ('wheel.wheelfile',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\site-packages\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Abhishek Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Abhishek '
+   'Mahendroo\\anaconda3\\envs\\ShopSales\\lib\\zipimport.py',
+   'PYMODULE')])

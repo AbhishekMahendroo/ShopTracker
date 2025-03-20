@@ -2,8 +2,8 @@ import pandas as pd
 from src.inventory import load_inventory, save_inventory, update_inventory
 from src.sales import process_sales, generate_bill, update_sales_log
 
-INPUT_FILE = "data/shop_inventory.xlsx"
-SALES_LOG = "data/daily_sales.xlsx"
+INPUT_FILE = r"C:\Users\Abhishek Mahendroo\Documents\PythonProject\ShopSalesTracker\data\shop_inventory.xlsx"
+SALES_LOG = r"C:\Users\Abhishek Mahendroo\Documents\PythonProject\ShopSalesTracker\data\daily_sales.xlsx"
 
 
 def main():
